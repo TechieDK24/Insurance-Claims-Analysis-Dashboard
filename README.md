@@ -6,6 +6,12 @@ The **Insurance Claims Analysis Dashboard** is an end-to-end Business Intelligen
 
 It enables users to monitor customer distribution, policy performance, premium collection, claim trends, and coverage distribution using dynamic visualizations and filters.
 
+---
+
+## 📷 Dashboard Preview
+
+![Insurance Claims Dashboard](Dashboard/Dashboard.png)
+
 
 ---
 
