@@ -10,7 +10,7 @@ It enables users to monitor customer distribution, policy performance, premium c
 
 ## 📷 Dashboard Preview
 
-![Insurance Claims Dashboard](Dashboard/Dashboard.png)
+![Insurance Claims Analysis Dashboard](Dashboard/Insurance_claim_analysis.png)
 
 
 ---
